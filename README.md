@@ -7,9 +7,9 @@ The competition was based on two different challenges:
 
 ## The Team
 * [Christian Lisi](https://github.com/Belfagor99)
-* Francesco Colabene
-* Andrea Gerosa
-* Giulio Saulle
+* [Francesco Colabene](https://github.com/FrancescoColabene)
+* [Andrea Gerosa](https://github.com/Jerry98x)
+* [Giulio Saulle](https://github.com/GiulioSaulle)
 
 
 ## 1. Image Classification
