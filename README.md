@@ -5,6 +5,13 @@ The competition was based on two different challenges:
 - Image Classification
 - Time Series Forecasting
 
+## The Team
+* [Christian Lisi](https://github.com/Belfagor99)
+* Francesco Colabene
+* Andrea Gerosa
+* Giulio Saulle
+
+
 ## 1. Image Classification
 **Goal:** build a binary classifier to correclty classify images of plants that were divided into two categories according to their state of health (1 = healthy, 0 = unhealthy).
 <a href="https://codalab.lisn.upsaclay.fr/competitions/16245" target="_blank">Link to competition page</a>
